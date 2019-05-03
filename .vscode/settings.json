@@ -1,0 +1,7 @@
+{
+     "C_Cpp.intelliSenseEngineFallback": "Disabled",
+     "terminal.integrated.env.osx": {
+          "PATH": "/Users/macosx/.platformio/penv/bin:/Users/macosx/.platformio/penv:/opt/local/bin:/opt/local/sbin:/Users/macosx/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/macosx/Library/Android/sdk/tools:/Users/macosx/Library/Android/sdk/tools/bin/:/Users/macosx/Library/Android/sdk/platform-tools",
+          "PLATFORMIO_CALLER": "vscode"
+     }
+}
